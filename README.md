@@ -20,6 +20,7 @@
   * When you have multiple lights linked together in master/slave mode and you’re controlling them with the RF remote, when you try to dim the lights, only the master unit would respond. The software fix allows all the units to respond to the RF remote.
 - **Follow the Firmware Update Instructions above when updating fixtures with this version of the software**
 
+
 [V2.00 - COLORband Pix M ILS](https://github.com/Chauvet-DJ/COLORBANDPIXILS/blob/main/firmware/V2.00_02-08-23.zip)
 - Released software version
 - **Follow these [Software Update Instructions](https://github.com/Chauvet-DJ/COLORBANDPIXILS/blob/f0cacbd7e5bfd130c47e3d52acd18c905b0bf49e/Installation%20Instructions/Software%20update%20instructions%20for%20V2.00.docx) when updating fixtures with this version of the software**
