@@ -22,4 +22,3 @@
 - Added pixel effect triggering with the ILS Command
 - Fixed the bug that causes fixtures to not work properly in master/slave mode when controlled using RF remote
   * When you have multiple lights linked together in master/slave mode and you’re controlling them with the RF remote, when you try to dim the lights, only the master unit would respond. The software fix allows all the units to respond to the RF remote.
-- **Follow the Firmware Update Instructions above when updating fixtures with this version of the software**
