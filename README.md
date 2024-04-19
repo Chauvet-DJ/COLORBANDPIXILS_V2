@@ -2,7 +2,6 @@
 
 ### This firmware is for Version 2 of the COLORband Pix ILS. If you have Version 1 of this product, please contact Customer Service for further instructions on how to update your unit.
 &nbsp;  
-
 ## Firmware Update Instructions
 1. Download the zip file onto your computer and extract the folder.
 2. Transfer the contents from the zip file onto a USB thumb drive.
@@ -11,7 +10,7 @@
 5. The fixture will reset itself automatically and display the new firmware version during start up.
 6. The USB thumb drive can be removed after the fixture restarts.
 
-#### Special Notes
+### Special Notes
 * Do not use a thumb drive greater than 32GB.
 * The thumb drive must be formatted to FAT32.
 * The downloaded firmware file must be placed in the root directory on the thumb drive (no folders).
