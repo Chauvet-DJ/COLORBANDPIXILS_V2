@@ -1,7 +1,6 @@
 # COLORBANDPIXILS
 
 ### This firmware is for Version 2 of the COLORband Pix ILS. If you have Version 1 of this product, please contact Customer Service for further instructions on how to update your unit.
-
 &nbsp;  
 
 ## Firmware Update Instructions
