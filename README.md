@@ -1,4 +1,4 @@
-# COLORBANDPIXILS
+# COLORBANDPIXILS_V2
 
 ### This firmware is for Version 2 of the COLORband Pix ILS. If you have Version 1 of this product, please contact Customer Service for further instructions on how to update your unit.
 &nbsp;  
@@ -18,7 +18,7 @@
 
 &nbsp;  
 
-[V4.03 - COLORband Pix ILS](https://github.com/Chauvet-DJ/COLORBANDPIXILS/blob/f0cacbd7e5bfd130c47e3d52acd18c905b0bf49e/firmware/V4.03_04-02-24.zip)
+[V4.03 - COLORband Pix ILS V2](https://github.com/Chauvet-DJ/COLORBANDPIXILS/blob/f0cacbd7e5bfd130c47e3d52acd18c905b0bf49e/firmware/V4.03_04-02-24.zip)
 - Added pixel effect triggering with the ILS Command
 - Fixed the bug that causes fixtures to not work properly in master/slave mode when controlled using RF remote
   * When you have multiple lights linked together in master/slave mode and you’re controlling them with the RF remote, when you try to dim the lights, only the master unit would respond. The software fix allows all the units to respond to the RF remote.
